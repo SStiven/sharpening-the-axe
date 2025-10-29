@@ -9,4 +9,3 @@ INNER JOIN
     ON e.managerId = m.id
 WHERE
     e.salary > m.salary;
-
